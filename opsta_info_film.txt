@@ -1,13 +1,293 @@
 Koja filmska serija je osvojila najviše Oskara?
-A) "Gospodar prstenova"
-B) "Ratovi zvezda"
-C) "Harry Potter"
-D) "Jurassic Park"
+A) Gospodar prstenova
+B) Ratovi zvezda
+C) Harry Potter
+D) Jurassic Park
 A
 
 Koji film je osvojio najviše Oskara za najbolji film?
-A) "Kazablanka"
-B) "Zelena milja"
-C) "Oskar"
-D) "Ben Hur"
+A) Kazablanka
+B) Zelena milja
+C) Oskar
+D) Ben Hur
 D
+
+Koja filmska serija je osvojila najviše Zlatnih globusa za najbolji film?
+A) Gospodar prstenova
+B) Harry Potter
+C) Povratak u buducnost
+D) Jurassic Park
+B
+
+Koji film je osvojio najviše Zlatnih globusa za najbolji film?
+A) Kazablanka
+B) Zelena milja
+C) Oskar
+D) Ben Hur
+A
+
+Koji film je osvojio najviše nagrada BAFTA za najbolji film?
+A) Gospodar prstenova: Povratak kralja
+B) Zelena milja
+C) Oskar
+D) Ben Hur
+A
+
+Koja filmska serija je osvojila najviše nagrada BAFTA za najbolji film?
+A) Harry Potter
+B) Povratak u buducnost
+C) Gospodar prstenova
+D) Jurassic Park
+C
+
+Koji film je osvojio najviše nagrada Critics' Choice Movie Awards za najbolji film?
+A) Kazablanka
+B) Oskar
+C) Ben Hur
+D) Zelena milja
+D
+
+Koji domaci film je osvojio najviše nagrada Pula za najbolji film?
+A) "Četvrti čovek"
+B) "Bure baruta"
+C) "Život i smrt porno bande"
+D) "Parada"
+B
+
+Koji domaci film je osvojio najviše nagrada FEST za najbolji film?
+A) "Četvrti čovek"
+B) "Bure baruta"
+C) "Život i smrt porno bande"
+D) "Parada"
+D
+
+Koja glumica je osvojila nagradu Oskar za najbolju glavnu žensku ulogu u filmu "La La Land"?
+A) Meryl Streep
+B) Emma Stone
+C) Viola Davis
+D) Natalie Portman
+B
+
+Koji glumac je glumio ulogu Jamesa Bonda u najviše filmova?
+A) Sean Connery
+B) Roger Moore
+C) Pierce Brosnan
+D) Daniel Craig
+A
+
+Koji glumac je glumio ulogu Batmana u filmovima iz DC Comics franšize?
+A) Ben Affleck
+B) Christian Bale
+C) Michael Keaton
+D) George Clooney
+B
+
+Koja glumica je glumila ulogu Elle Woods u filmu "Legally Blonde"?
+A) Reese Witherspoon
+B) Julia Roberts
+C) Sandra Bullock
+D) Jennifer Lawrence
+A
+
+Koji glumac je glumio ulogu Tonyja Starka u filmovima "Iron Man"?
+A) Chris Hemsworth
+B) Tom Hiddleston
+C) Chris Evans
+D) Robert Downey Jr.
+D
+
+Koji glumac je glumio ulogu Thor-a u filmovima Marvel Studios?
+A) Chris Hemsworth
+B) Chris Evans
+C) Robert Downey Jr.
+D) Mark Ruffalo
+A
+
+Koja glumica je glumila ulogu Gamore u filmovima Marvel Studios?
+A) Scarlett Johansson
+B) Zoe Saldana
+C) Brie Larson
+D) Karen Gillan
+B
+
+Koji glumac je glumio ulogu Steve Rogers-a u filmovima Marvel Studios?
+A) Chris Evans
+B) Chris Hemsworth
+C) Robert Downey Jr.
+D) Mark Ruffalo
+A
+
+Koji glumac je glumio ulogu Peter Quill-a u filmovima Marvel Studios?
+A) Robert Downey Jr.
+B) Tom Hiddleston
+C) Chris Evans
+D) Chris Pratt
+D
+
+Koji glumac je glumio ulogu Doctor Strange-a u filmovima Marvel Studios?
+A) Chris Evans
+B) Tom Holland
+C) Benedict Cumberbatch
+D) Chris Hemsworth
+C
+
+Koji glumac je glumio ulogu Harryja Pottera u filmovima o Harry Potter-u?
+A) Daniel Radcliffe
+B) Rupert Grint
+C) Emma Watson
+D) Tom Felton
+A
+
+Koja glumica je glumila ulogu Hermioni u filmovima o Harry Potter-u?
+A) Emma Watson
+B) Bonnie Wright
+C) Katie Leung
+D) Evanna Lynch
+A
+
+Koji glumac je glumio ulogu Rona Weasleyja u filmovima o Harry Potter-u?
+A) Daniel Radcliffe
+B) Rupert Grint
+C) Emma Watson
+D) Tom Felton
+B
+
+Koji glumac je glumio ulogu Toma Riddlea u filmovima o Harry Potter-u?
+A) Ralph Fiennes
+B) Alan Rickman
+C) Michael Gambon
+D) Gary Oldman
+A
+
+Koja glumica je glumila ulogu Lily Potter u filmovima o Harry Potter-u?
+A) Emma Watson
+B) Bonnie Wright
+C) Katie Leung
+D) Evanna Lynch
+B
+
+U kom filmu je Brus Vilis predstavljen kao detektiv koji pokušava da reši niz ubistava?
+A) Pulp Fiction
+B) Armagedon
+C) Šesto čulo
+D) Umri muški
+D
+
+U kom filmu je Brus Vilis igrao ulogu penzionisanog agenta CIA-e koji je ponovo pozvan u akciju?
+A) Pulp Fiction
+B) Armagedon
+C) Šesto čulo
+D) Crvena
+D
+
+U kom filmu je Brus Vilis predstavljen kao ubica koji se mora suočiti sa svojom nasilnom prošlošću?
+A) Pulp Fiction
+B) Armagedon
+C) Šesto čulo
+D) Grad greha
+D
+
+U kom filmu je prikazan glumac koji je igrao njujorškog policajca koji ima zadatak da zaustavi teroristički napad?
+A) Smrtonosno oružje
+B) Umri muški
+C) Brooklin's Finest
+D) Ekvilajzer
+B
+
+U kom filmu je glumac igrao ulogu bivšeg vojnika koji je regrutovan da spase ćerku predsednika SAD od grupe terorista?
+A) Taken
+B) Nemoguca misija
+C) A-tim
+D) Bornov identitet
+A
+
+U kom filmu je glumac prikazan kao profesionalni lopov koji je primoran da radi za FBI da bi očistio svoje ime?
+A) Oceanovih jedanaest
+B) Italijanski posao
+C) Rezultat
+D) Uhvati me ako možeš
+A
+
+U kom filmu je glumac igrao ulogu bivšeg špijuna koji je doveden iz penzije da bi pronašao listu dvostrukih agenata?
+A) Nemoguca Misija
+B) Bornov identitet
+C) Dobri pastir
+D) Špijunska igra
+D
+
+U kom filmu je glumac glumio bivšeg agenta FBI-a koji postaje osvetnik da bi se osvetio za ubistvo svoje žene?
+A) Ekvilajzer
+B) Taken
+C) Čovek u plamenu
+D) Ubij Bila
+A
+
+Koja glumica je glumila ulogu Katniss Everdeen u filmu "The Hunger Games"?
+A) Jennifer Lawrence
+B) Emma Watson
+C) Shailene Woodley
+D) Kristen Stewart
+A
+
+Koji glumac je glumio ulogu Batmana u filmu "The Dark Knight"?
+A) Christian Bale
+B) Ben Affleck
+C) Michael Keaton
+D) George Clooney
+A
+
+Koja glumica je glumila ulogu Belle u filmu "Beauty and the Beast"?
+A) Emma Watson
+B) Emma Stone
+C) Jennifer Lawrence
+D) Mila Kunis
+A
+
+Koji glumac je glumio ulogu Captain Americu u filmovima Marvel Studios?
+A) Chris Evans
+B) Chris Hemsworth
+C) Robert Downey Jr.
+D) Mark Ruffalo
+A
+
+Koja glumica je glumila ulogu Wonder Woman u filmovima DC Comics franšize?
+A) Gal Gadot
+B) Margot Robbie
+C) Brie Larson
+D) Scarlett Johansson
+A
+
+Koji glumac je glumio ulogu Alfreda Hitchocka u filmu "Hitchcock"?
+A) Anthony Hopkins
+B) Tobey Maguire
+C) Johnny Depp
+D) Ralph Fiennes
+A
+
+Koja glumica je glumila ulogu Alma Reville u filmu "Hitchcock"?
+A) Scarlett Johansson
+B) Jessica Chastain
+C) Helen Mirren
+D) Cate Blanchett
+C
+
+Koji film Alfreda Hitchocka je uključivao glavnu ulogu Anthonyja Perkinsa kao Norman Bates-a, vlasnika hotela sa misterioznom prošlošću?
+A) Psycho
+B) Rear Window
+C) Vertigo
+D) North by Northwest
+A
+
+Koji je film Alfreda Hitchocka uključivao glavnu ulogu Jamesa Stewarta kao fotografa koji pokušava da riješi ubistvo iz svojih prozora?
+A) Psycho
+B) Rear Window
+C) Vertigo
+D) North by Northwest
+B
+
+Koji film Alfreda Hitchocka je uključivao glavnu ulogu Caryja Granta kao nekadašnjeg policajca koji se zaljubi u ženu koja se pretvara da je njegova sestra?
+A) Psycho
+B) Rear Window
+C) Vertigo
+D) North by Northwest
+C

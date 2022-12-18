@@ -6,23 +6,22 @@ import kotlinx.coroutines.*
 import java.io.File
 
 fun main() {
-    readFile(fileManager = CyrillicAnswerFileManager("opsta_info_3.txt"))
+    readQuestions(fileManager = ChatGptQuestionManager("opsta_info_muzika.txt", Mode.Music))
 }
 
-fun readFile(fileManager: QuestionFileManager) {
+fun readQuestions(fileManager: QuestionManager) {
     val gson = Gson().newBuilder().setPrettyPrinting().create()
     val content = readFileContent(fileManager.filePath)
+    val list = mutableListOf<Question>()
     var currentIndexInFile = 0
     var currentLineContent = ""
-    var question = Question()
-    val list = mutableListOf<Question>()
+    var question = createNewQuestion(fileManager)
     try {
         content.forEachIndexed { index, line ->
+
             currentIndexInFile = index + 1
             currentLineContent = line
 
-            val isLineStartsWithAnswerChar =
-                line.startsWithAny("a", "b", "v", "g", "d") || line.startsWithAny("a", "b", "c", "d", "e")
             when {
                 line.isEmpty() -> {
                     // do nothing
@@ -30,30 +29,37 @@ fun readFile(fileManager: QuestionFileManager) {
                 fileManager.isQuestion(line) -> {
                     question.text = fileManager.processQuestionLine(line)
                 }
-                isLineStartsWithAnswerChar && line.count() > 1 -> {
+                fileManager.isAnswerLine(line) -> {
                     question.answers.add(Answer(text = fileManager.processAnswerLine(line)))
                 }
-                isLineStartsWithAnswerChar && line.count() == 1 -> {
+                fileManager.isCorrectAnswerChar(line) -> {
                     setCorrectAnswer(line.first(), fileManager.answerMapping, question)
-                    list.add(question)
-                    question = Question()
+                    list.add(question.copy(answers = question.answers.shuffled().toMutableList()))
+                    question = createNewQuestion(fileManager)
                 }
             }
         }
         list.forEach {
             val json = gson.toJson(it)
             println(json)
-//            request(json)
+            // TODO: Uncomment line below to send questions to server. REMEMBER TO CHANGE IP ADDRESS IF NEEDED !
+              request(json)
         }
+        println("================== Broj pitanja: " + list.count())
     } catch (e: Exception) {
         println("Greska na liniji broj $currentIndexInFile.\nSadrzaj linije: $currentLineContent")
         System.err.println(e)
     }
 }
 
+private fun createNewQuestion(fileManager: QuestionManager) = Question(
+    isApproved = true,
+    categoryId = fileManager.getModeId()
+)
+
 fun request(json: String) {
     runBlocking(Dispatchers.IO) {
-        HttpClient().post("http://192.168.1.72:3000/questions/create") {
+        HttpClient().post("http://192.168.1.72:2000/questions/create") {
             contentType(io.ktor.http.ContentType.Application.Json)
             setBody(json)
         }
@@ -70,7 +76,7 @@ fun setCorrectAnswer(c: Char, answerMapping: Map<Char, Int>, question: Question)
 
 fun String.startsWithAny(vararg values: String): Boolean {
     values.forEach {
-        if (this.startsWith(it)) return true
+        if (this.startsWith(it, true)) return true
     }
     return false
 }

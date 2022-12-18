@@ -46,7 +46,7 @@ b) Austrije,
 v) Češke,
 g) Poljske.
 g
-                                                                               8. Ko je bog Sunca u egipatskoj mitologiji?
+8. Ko je bog Sunca u egipatskoj mitologiji?
 a) Oziris,
 b) Ra,
 v) Feniks,
@@ -67,21 +67,21 @@ v) geometrijski oblik,
 g) pravac u umjetnosti.
 g
 
-11. Autor djela „Za kim zvona zvone“ je:
+11. Autor djela 'Za kim zvona zvone' je:
 a) Ernest Hemingvej,
 b) Mark Tven,
 v) Robert Džordan,
 g) Čarls Dikens.
 a
 
-12. Autor djela „Mobi Dik“ je:
+12. Autor djela 'Mobi Dik' je:
 a) Ernest Hemingvej,
 b) Mark Tven,
 v) Herman Melvin,
 g) Čarls Dikens.
 v
 
-13. Cogito, ergo sum („mislim, dakle postojim“) je filozofska izjava:
+13. Cogito, ergo sum ('mislim, dakle postojim') je filozofska izjava:
 a) Cezara,
 b) Renea Dekarta,
 v) Platonova,
@@ -115,7 +115,7 @@ v) Kron,
 g) Jupiter.
 a
 
-18. Autor djela „Lolita“ je:
+18. Autor djela 'Lolita' je:
 a) Džordž Orvel,
 b) Virdžinija Vulf,
 v) Emili Bronte,
@@ -149,21 +149,21 @@ b) vidi i produži,
 v) vrati ili plati,
 g) veoma opasnu osobu.
 a
-23. Autor slike „Noćna straža“ je:
+23. Autor slike 'Noćna straža' je:
 a) Van Gog,
 b) Renoar,
 v) Rembrant,
 g) Mikelanđelo.
 v
 
-24. Autor slike „Gernika“ je:
+24. Autor slike 'Gernika' je:
 a) Van Gog,
 b) Pablo Pikaso,
 v) Rembrant,
 g) Mikelanđelo.
 b
 
-25. „G8“ je oznaka za:
+25. 'G8' je oznaka za:
 a) osam masonskih loža,
 b) osam osnovnih sportskih disciplina,
 v) skup osam najrazvijenijih zemalja svijeta,
@@ -374,7 +374,7 @@ v) aksila,
 g) hipotalamus.
 a
 
-56. Vještina ili „nauka“ gdje se na osnovu analize rukopisa otkrivaju osobine
+56. Vještina ili 'nauka' gdje se na osnovu analize rukopisa otkrivaju osobine
 ličnosti je:
 a) etnografija,
 b) grafologija,
@@ -389,7 +389,7 @@ v) 700 metara,
 g) između 1500 i 2000 metara.
 g
 
-58. Ko je izgovorio „Veni, vidi, vici“?
+58. Ko je izgovorio 'Veni, vidi, vici'?
 a) Kaligula,
 b) Marko Antonije,
 v) Aleksandar Makedonski,
@@ -405,9 +405,9 @@ b
 
 60. Henri Kinaski je:
 a) nadimak Henri Forda,
-b) lik iz djela „Hamlet“,
+b) lik iz djela 'Hamlet',
 v) pseudonim Čarlsa Bukovskog,
-g) lik iz djela „Evgenije Onjegin“.
+g) lik iz djela 'Evgenije Onjegin'.
 v
 
 61. Novčana jedinica u Bugarskoj je:
@@ -431,7 +431,7 @@ v) FIDE,
 g) FIBA.
 g
 
-64. Autor poeme „Đački rastanak“ je:
+64. Autor poeme 'Đački rastanak' je:
 a) Branko Radičević,
 b) Milan Rakić,
 v) Laza Kostić,
@@ -493,7 +493,7 @@ v) Litvanija,
 g) Latvija.
 a
 
-73. „Gaudeamus igitur“ je himna:
+73. 'Gaudeamus igitur' je himna:
 a) rudara,
 b) medicinara,
 v) vrtića,
@@ -705,7 +705,7 @@ b) Noje,
 v) Mojsije,
 g) Isus.
 v
-104. Ako je nečije izlaganje „preliminarno“, to znači da je:
+104. Ako je nečije izlaganje 'preliminarno', to znači da je:
 a) na stranom jeziku,
 b) preopširno,
 v) prekratko,
@@ -775,7 +775,7 @@ v) Rimu,
 g) Vatikanu.
 a
 
-114. Veliki umjetnik renesanse čije je djelo „David“ je:
+114. Veliki umjetnik renesanse čije je djelo 'David' je:
 a) Mikelanđelo,
 b) Roden,
 v) Ticijan,
@@ -796,14 +796,14 @@ v) 30.000 znakova,
 g) 20.000 znakova.
 v
 
-117. „Ahilova peta“ je simbol za:
+117. 'Ahilova peta' je simbol za:
 a) snagu,
 b) odlučnost,
 v) brzinu,
 g) slabost.
 g
 
-118. Javna rasprodaja robe po principu „ko da više“ zove se:
+118. Javna rasprodaja robe po principu 'ko da više' zove se:
 a) licitacija,
 b) inflacija,
 v) konotacija,
@@ -830,7 +830,7 @@ v) kruška,
 g) kajsija.
 b
 
-122. Za koji dio Azije se često upotrebljava i naziv „Daleki istok"?
+122. Za koji dio Azije se često upotrebljava i naziv 'Daleki istok"?
 a) Jugozapadna Azija,
 b) Zapadna Afrika,
 v) Istočna Azija,
@@ -874,7 +874,7 @@ v) Mali svijet,
 g) Stari svijet.
 g
 
-128. Pjesma „Krvava bajka“ je djelo:
+128. Pjesma 'Krvava bajka' je djelo:
 a) Desanke Maksimivić,
 b) Jovana Dučića,
 v) Vladislava Petkovića Disa,
@@ -997,14 +997,14 @@ v) transportacija,
 g) transformacija.
 b
 
-146. „Dejvis kup“ je međunarodno takmičenje u:
+146. 'Dejvis kup' je međunarodno takmičenje u:
 a) košarci,
 b) fudbalu,
 v) tenisu,
 g) rukometu.
 v
 
-147. Izraz „Status quo“ primjenjuje se za označavanje situacije i shvatanja čija je
+147. Izraz 'Status quo' primjenjuje se za označavanje situacije i shvatanja čija je
 karakteristika:
 a) nepromjenjivo stanje,
 b) promjenjivo stanje,
@@ -1074,7 +1074,7 @@ v) trgovac,
 g) slikar.
 a
 
-157. Koje godine su se održale „Zimske olimpijske igre“ u Sarajevu?
+157. Koje godine su se održale 'Zimske olimpijske igre' u Sarajevu?
 a) 1981. godine,
 b) 1982. godine,
 v) 1983. godine,
@@ -1095,7 +1095,7 @@ v) Španija,
 g) Francuska.
 a
 
-160. Na „Ljetnjim olimpijskim igrama“ 2016. godine vaterpolo reprezentacija
+160. Na 'Ljetnjim olimpijskim igrama' 2016. godine vaterpolo reprezentacija
 Republike Srbije je osvojila:
 a) drugo mjesto,
 b) treće mjesto,
@@ -1137,7 +1137,7 @@ v) atletika,
 g) tenis.
 v
 
-166. Koji sport nosi epitet „bijeli sport“?
+166. Koji sport nosi epitet 'bijeli sport'?
 a) tenis,
 b) skijanje,
 v) atletika,
@@ -1160,7 +1160,7 @@ v) naučna disciplina koja se bavi proučavanjem Biblije,
 g) ništa od ponuđenih odgovora.
 b
 
-169. Homerova „Ilijada“ je:
+169. Homerova 'Ilijada' je:
 a) roman,
 b) drama,
 v) epopeja,
@@ -1181,7 +1181,7 @@ v) šesnaesterac,
 g) deseterac.
 g
 
-172. „Gorski vijenac“ napisao je:
+172. 'Gorski vijenac' napisao je:
 a) Branko Ćopić,
 b) Petar Petrović Njegoš,
 v) Ivo Andrić,
@@ -1325,7 +1325,7 @@ v) San Salvador,
 g) Brazilija.
 g
 
-193. Prašuma „Perućica“ nalazi se u:
+193. Prašuma 'Perućica' nalazi se u:
 a) Foči,
 b) Kalinoviku,
 v) Čajniču,
@@ -1373,14 +1373,14 @@ b) Egiptu,
 v) Vavilonu,
 g) Sumeru.
 b
-200. Ko je prerezao „Gordijski čvor“?
+200. Ko je prerezao 'Gordijski čvor'?
 a) Aleksandar Veliki,
 b) Ahil,
 v) Sizif,
 g) Perikle.
 a
 
-201. „Kocka je bačena“ (Alea iacta est), uzviknuo je poznati vojskovođa:
+201. 'Kocka je bačena' (Alea iacta est), uzviknuo je poznati vojskovođa:
 a) Cezar,
 b) Aleksandar Veliki,
 v) Napoleon,
@@ -1394,7 +1394,7 @@ v) Sava Nemanjić,
 g) Stefan Nemanja.
 g
 
-203. Naziv „treći Rim“ nosio je grad:
+203. Naziv 'treći Rim' nosio je grad:
 a) Carigrad,
 b) Moskva,
 v) Berlin,
@@ -1428,7 +1428,7 @@ v) Dositej Obradović,
 g) Hajduk Veljko.
 b
 
-208. Događaj poznat kao „Bartolomejska noć“ odigrao se u:
+208. Događaj poznat kao 'Bartolomejska noć' odigrao se u:
 a) Francuskoj,
 b) Engleskoj,
 v) Švajcarskoj,
@@ -1539,7 +1539,7 @@ v) ustavom,
 g) pravilnikom.
 v
 
-224. Autor djela „Pjesma o keruši“ je:
+224. Autor djela 'Pjesma o keruši' je:
 a) Sergej Jesenjin,
 b) Aleksandar Sergejevič Puškin,
 v) Josif Brodski,
@@ -1567,7 +1567,7 @@ v) četiri,
 g) pet.
 b
 
-228. Koji filozof je autor djela „Država“?
+228. Koji filozof je autor djela 'Država'?
 a) Aristotel,
 b) Aristofan,
 v) Sokrat,
@@ -1580,14 +1580,14 @@ v) Pariški mirovni sporazum,
 g) Požarevački mirovni sporazum.
 a
 
-230. Pripadnici „Mlade Bosne“ 28.06.1914. godine su izvršili atentat na:
+230. Pripadnici 'Mlade Bosne' 28.06.1914. godine su izvršili atentat na:
 a) Marijana Varešanina,
 b) Aleksandra Obrenovića,
 v) Franca Ferninanda,
 g) Milana Obrenovića.
 v
 
-231. Titulu „kralja rokenrola“ nosi pjevač:
+231. Titulu 'kralja rokenrola' nosi pjevač:
 a) Džon Lenon,
 b) Mik Džeger,
 v) Elvis Prisli,
@@ -1649,8 +1649,7 @@ v) novinar,
 g) tvorac koka-kole (Coca-Cola).
 g
 
-240. Kako se zvala junakinja iz djela Viktora Igoa „Zvonar Bogorodičine crkve u
-Parizu“?
+240. Kako se zvala junakinja iz djela Viktora Igoa 'Zvonar Bogorodičine crkve u Parizu'?
 a) Esmeralda,
 b) Rosalinda,
 v) Fernanda,
@@ -1671,7 +1670,7 @@ v) tišina,
 g) moć.
 b
 
-243. Muziku za najpoznatiji balet na svijetu „Labudovo jezero“ komponovao je:
+243. Muziku za najpoznatiji balet na svijetu 'Labudovo jezero' komponovao je:
 a) Čajkovski,
 b) Betoven,
 v) Rosini,
@@ -1732,7 +1731,7 @@ b) Pulicerove nagrade,
 v) Zlatnog globusa,
 g) Gremijeve nagrade.
 a
-252. Autor djela „Travička hronika“ je:
+252. Autor djela 'Travička hronika' je:
 a) Mato Lovrak,
 b) Milorad Pavić,
 v) Dobrica Ćosić,
@@ -1745,19 +1744,19 @@ b) hebrejski,
 v) latinski.
 a
 
-254. Koja glasovna promjena je izvršena u riječi „srpski“:
+254. Koja glasovna promjena je izvršena u riječi 'srpski':
 a) jednačenje suglasnika po mjestu tvorbe,
 b) jednačenje suglasnika po zvučnosti,
 v) nepostojano A.
 b
 
-255. U rečenici „Ja pjevam kada mi se pjeva“ subjekat je:
+255. U rečenici 'Ja pjevam kada mi se pjeva' subjekat je:
 a) ja,
 b) pjevam,
 v) mi.
 a
 
-256. Ko je uveo glas „h“ u srpski jezik?
+256. Ko je uveo glas 'h' u srpski jezik?
 a) Jernej Kopitar,
 b) Dositej Obradović,
 v) Vuk Stefanović Karadžić.
@@ -1810,7 +1809,7 @@ b) ni zašta,
 v) s nikim.
 a
 
-265. Šta je „Ispeci pa reci“?
+265. Šta je 'Ispeci pa reci'?
 a) aforizam,
 b) zagonetka,
 v) poslovica.
@@ -1828,7 +1827,7 @@ b) šest,
 v) sedam.
 a
 
-268. Kojoj vrsti riječi pripada riječ „majka“?
+268. Kojoj vrsti riječi pripada riječ 'majka'?
 a) imenica,
 b) zamjenica,
 v) pridjev.
@@ -1875,7 +1874,7 @@ b) delinkventi, komandant, recenzent,
 v) delikventi, komadanti, recezenti.
 b
 
-276. Kada kažemo nekome „Stoj!“, upotrebili smo:
+276. Kada kažemo nekome 'Stoj!', upotrebili smo:
 a) imperativ,
 b) potencijal,
 v) perfekat.
@@ -1904,8 +1903,7 @@ b) čistiji, strožiji i višlji,
 v) čistiji, stroži i viši.
 v
 
-281. Naš ponajbolji satiričar, autor djela „Vođa“, „Danga“, „Mrtvo more“, „Stradija“
-je:
+281. Naš ponajbolji satiričar, autor djela 'Vođa', 'Danga', 'Mrtvo more'' i 'Stradija' je:
 a) Milovan Vidaković,
 b) Jakov Ignjatović,
 v) Radoje Domanović.
@@ -1917,34 +1915,34 @@ b) Ivo Andrić,
 v) Slobodan Selenić.
 b
 
-283. Autor djela „Iskrena pesma“ je:
+283. Autor djela 'Iskrena pesma' je:
 a) Petar Kočić,
 b) Branko Ćopić,
 v) Milan Rakić,
 g) Milovan Glišić,
 v
 
-284. Autor djela „Jazavac pred sudom“ je:
+284. Autor djela 'Jazavac pred sudom' je:
 a) Petar Kočić,
 b) Branko Ćopić,
 v) Milan Rakić,
 g) Milovan Glišić,
 a
 
-285. Autor djela „Nečista krv“ je:
+285. Autor djela 'Nečista krv' je:
 a) Petar Kočić,
 b) Branko Ćopić,
 v) Milan Rakić,
 g) Borisav Stanković.
 g
-286. Autor djela „Glava šećera“ je:
+286. Autor djela 'Glava šećera' je:
 a) Petar Kočić,
 b) Branko Ćopić,
 v) Milan Rakić,
 g) Milovan Glišić,
 g
 
-287. Autor djela „Osma ofanziva“ je:
+287. Autor djela 'Osma ofanziva' je:
 a) Petar Kočić,
 b) Branko Ćopić,
 v) Milan Rakić,
@@ -1957,28 +1955,28 @@ b) lirska pjesma,
 v) drama u užem smislu.
 a
 
-289. Autor djela „Cveće zla“ je:
+289. Autor djela 'Cveće zla' je:
 a) Mihail Bulgakov,
 b) Onore de Balzak,
 v) Umberto Eko,
 g) Šarl Bodler.
 g
 
-290. Autor djela „Majstor i Margarita“ je:
+290. Autor djela 'Majstor i Margarita' je:
 a) Mihail Bulgakov,
 b) Onore de Balzak,
 v) Umberto Eko,
 g) Šarl Bodler.
 a
 
-291. Autor djela „Čiča Gorio“ je:
+291. Autor dela 'Čiča Gorio' je:
 a) Mihail Bulgakov,
 b) Onore de Balzak,
 v) Umberto Eko,
 g) Šarl Bodler.
 b
 
-292. Autor djela „Ime ruže“ je:
+292. Autor dela 'Ime ruže' je:
 a) Mihail Bulgakov,
 b) Onore de Balzak,
 v) Umberto Eko,
@@ -1996,7 +1994,7 @@ b) publicistički stil,
 v) naučni stil.
 a
 
-295. Ko je napisao „Studenički tipik“, „Hilandarski tipik“, „Nomokanon“?
+295. Ko je napisao 'Studenički tipik', 'Hilandarski tipik', 'Nomokanon'?
 a) Rastko Nemanjić – Sveti Sava,
 b) Dositej Obradović,
 v) Vuk Stefanović Karadžić.
@@ -2113,7 +2111,7 @@ b) kralja Milutina,
 v) cara Lazara.
 a
 
-319. Izraz „Bregzit“ se odnosi na:
+319. Izraz 'Bregzit' se odnosi na:
 a) ekonomske sankcije BiH,
 b) raspad Banke srednjoafričkih država (BEAC),
 v) izlazak Velike Britanije iz Evropske unije.
@@ -2264,7 +2262,7 @@ v) japansko jelo,
 g) japansko piće.
 v
 
-344. Sjedište Ujedinjenih nacija je u:
+344. Sedište Ujedinjenih nacija je u:
 a) Njujorku,
 b) Parizu,
 v) Londonu.
@@ -2301,7 +2299,7 @@ v) Indije.
 v
 
 350. Debakl znači:
-a) uspjeh,
-b) neuspjeh,
+a) uspeh,
+b) neuspeh,
 v) slavlje.
 a
