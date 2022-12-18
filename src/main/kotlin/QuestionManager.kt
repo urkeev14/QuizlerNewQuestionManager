@@ -4,6 +4,8 @@ abstract class QuestionFileManager(
     val isShouldTrimNumbersFromQuestion: Boolean
 ) {
     abstract fun isQuestion(line: String): Boolean
+    abstract fun isAnswerLine(line: String): Boolean
+    abstract fun isCorrectAnswerChar(line: String): Boolean
     abstract fun processQuestionLine(line: String): String
     abstract fun processAnswerLine(line: String): String
 }
